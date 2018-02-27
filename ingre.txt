@@ -3,3 +3,4 @@ avocados
 half salt
 another line
 1 time something
+TEST line entry
